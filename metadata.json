@@ -1,0 +1,6 @@
+{
+  "name": "闫哲恺的个人作品集网站",
+  "description": "闫哲恺的个人作品集网站 (Portfolio Website)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
